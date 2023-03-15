@@ -39,3 +39,56 @@
     font-size: 20px;
     border: none;
 }
+
+
+.my-failures {
+    width: 1072px;
+    height: 723.3px;
+    justify-content: center;
+}
+
+
+.failures-details {
+    display: flex;
+    align-items: center;
+}
+
+.failures-title {
+    font-weight: 700;
+    font-size: 40px;
+    padding-bottom: 20px;
+}
+
+.failures-description {
+    color: #444343;
+}
+
+h5 {
+    color: #444343;
+}
+
+.my-title {
+    text-align: center;
+    font-weight: 700;
+    font-size: 40px;
+    padding-bottom: 50px;
+}
+
+.my-plan {
+    display: flex;
+    justify-content: center;
+    gap: 85px;
+}
+
+.web-title {
+    font-weight: 700;
+    font-size: 30px;
+    padding-top: 24px;
+    padding-bottom: 16px;
+}
+
+.web-description {
+    font-weight: 500;
+    font-size: 25px;
+    color: #737272;
+}
