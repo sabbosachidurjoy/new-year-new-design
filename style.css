@@ -7,7 +7,7 @@
 .banner-container {
     width: 1600px;
     height: 809px;
-    background-image: url(/images/banner/banner2.png);
+    background-image: url(./images/banner/banner2.png);
     text-align: right;
     align-items: center;
 }
