@@ -78,6 +78,7 @@ h5 {
     display: flex;
     justify-content: center;
     gap: 85px;
+    padding-bottom: 125px;
 }
 
 .web-title {
@@ -91,4 +92,88 @@ h5 {
     font-weight: 500;
     font-size: 25px;
     color: #737272;
+}
+
+.watch-img {
+    background-image: url(/images/watch.png), linear-gradient(90deg, #005FAC 0%, rgba(0, 95, 172, 0) 100%);
+    background-blend-mode: overlay;
+    background-repeat: no-repeat;
+    width: 1140px;
+    height: 300px;
+    border-radius: 8px;
+    margin: auto;
+    margin-bottom: 150px;
+}
+
+.watch {
+    padding: 60px 65px;
+}
+
+.watch-title {
+    font-weight: 700;
+    font-size: 40px;
+    color: #FFFFFF;
+    padding-bottom: 25px;
+}
+
+.btn-call {
+    background: #FFFFFF;
+    border-radius: 5px;
+    padding: 20px 25px;
+    border-radius: 5px;
+    color: #F15B22;
+    font-weight: 600;
+    font-size: 20px;
+    border: none;
+}
+
+.footer-container {
+    display: flex;
+    background: #151414;
+    justify-content: center;
+    gap: 330px;
+    padding-top: 111px;
+}
+
+.future-container {
+    width: 485px;
+    height: 317px;
+    
+}
+
+.future-title {
+    font-weight: 700;
+    font-size: 45px;
+    color: #F8F8F8;
+}
+
+.future-description {
+    color: #FFFFFF;
+}
+
+.sub-title {
+    color: #FFFFFF;
+    font-weight: 600;
+    font-size: 25px;
+    padding-bottom: 30px;
+}
+
+.email-container {
+    width: 325px;
+    height: 20px;
+    padding: 20px;
+    color: #F3F3F3;
+    border-radius: 8px;
+    background: #000;
+    margin-bottom: 20px;
+}
+
+.submit-container input {
+    width: 170.11px;
+    height: 64px;
+    background: #FFFFFF;
+    border-radius: 8px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #F15B22;
 }
