@@ -95,7 +95,7 @@ h5 {
 }
 
 .watch-img {
-    background-image: url(/images/watch.png), linear-gradient(90deg, #005FAC 0%, rgba(0, 95, 172, 0) 100%);
+    background-image: url(./images/watch.png), linear-gradient(90deg, #005FAC 0%, rgba(0, 95, 172, 0) 100%);
     background-blend-mode: overlay;
     background-repeat: no-repeat;
     width: 1140px;
